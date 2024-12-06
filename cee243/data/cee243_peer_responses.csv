@@ -1,0 +1,330 @@
+Timestamp,Your Name (for participation credit),Group Presenting (number),How creative is the proposed USSI?,Does the group sufficiently justify the complexity and interpretability of their proposed USSI?,Is the system exploratory analysis deep/thorough enough to support the USSI?,Have the potential data sources been adequately explored and limits articulated?,How clear was the presentation?,Additional comments
+12/3/2024 10:34:51,Muran,10,5,5,4,4,5,
+12/3/2024 10:43:09,Brian Ma,10,5,5,5,5,5,
+12/3/2024 10:45:25,Sam,10,5,5,5,5,5,
+12/3/2024 10:45:27,Jose Lemus,10,5,5,5,5,5,very well presented
+12/3/2024 10:45:30,Molly Tian,10,4,5,5,5,5,
+12/3/2024 10:45:37,Chengtao Zhang,10,4,4,5,4,5,
+12/3/2024 10:45:41,Ningyan Chen,10,5,5,5,5,5,
+12/3/2024 10:45:45,Ponsuganth Muthuraman,10,5,5,5,5,5,
+12/3/2024 10:45:56,Galia Santana-Oikawa,10,4,4,5,5,5,
+12/3/2024 10:46:02,Angelina Lee,10,5,5,5,5,5,agree with the reasoning to add the weighting system and I learned about the analytic hierarchy process (AHP)
+12/3/2024 10:46:02,Huilan Huang,10,5,5,5,5,5,"Great presentation, very detailed and clear. It set the bar high!"
+12/3/2024 10:46:07,Yasemin Agi,10,5,5,5,5,5,I would like to hear more about the specific terms and how you found data/calculated as opposed to the high level
+12/3/2024 10:46:16,Allison Kuzyk,10,5,5,5,5,5,Great presentation and justification 
+12/3/2024 10:46:17,Ryan Auker,10,5,5,5,5,5,
+12/3/2024 10:46:30,Jatzia Felix,10,5,5,5,5,5,
+12/3/2024 10:46:34,Camilo Colorado,10,5,5,5,5,5,"Great presentation. Very clear discussion on their methodology (AHP), metrics, and data exploration. "
+12/3/2024 10:46:51,Peng Jie Teoh,10,5,5,5,5,5,
+12/3/2024 10:47:18,Rahul Ajmera,10,5,5,5,5,5,Loved the discussion of the data and model limitations!
+12/3/2024 10:47:38,Hywot Ayana,10,4,5,5,5,5,
+12/3/2024 10:47:40,Jake Chua,10,5,4,4,5,5,
+12/3/2024 10:48:46,Hannah Lipman,10,5,5,5,5,5,
+12/3/2024 10:48:51,Michaella Park,10,5,4,5,5,4,"It would be helpful to note which are inflows / outflows with arrows, I'm interested in learning more about how each of these factors interact with each other "
+12/3/2024 10:49:09,Clara Medina,10,5,4,4,5,5,I really liked seeing the group's application of the weighing system. It was very thorough.
+12/3/2024 10:49:15,Alayna Burns,10,4,5,5,5,5,love the graphs
+12/3/2024 10:49:15,Chween An,10,4,4,4,4,5,The limitations of the data and model are well explained & the AHP is great to differentiate the weighting of each indicator. 
+12/3/2024 10:49:15,Daniel Pack,10,5,5,5,5,5,
+12/3/2024 10:49:50,Apurba Paudel,10,4,5,5,5,5,
+12/3/2024 10:49:52,Rima,10,4,5,5,5,5,very cool and comprehensive!
+12/3/2024 10:50:17,Ryan Esquivel,10,5,5,5,5,5,
+12/3/2024 10:50:18,Dulce'Celeste Martinez ,10,5,5,5,5,5,Wow! Very thorough!
+12/3/2024 10:50:44,Vishnu Murali,10,5,5,5,5,5,I was not convinced on how they are going to solve the issue of normalising the values across different units.
+12/3/2024 10:56:31,Rahul Ajmera,7,5,5,5,5,5,I like how the group thought about normalizing the data!
+12/3/2024 10:59:18,Yasemin Agi,7,5,5,5,5,5,I really liked how they did their weighting and showed their normalization process. 
+12/3/2024 11:00:05,Hywot Ayana,7,5,5,5,5,5,
+12/3/2024 11:00:45,Rizwaan Malik,7,4,4,5,3,4,"I liked the worked example of how you calculated the scales score, made a lot of sense! "
+12/3/2024 11:01:44,Alpha Hernandez,7,5,5,5,4,5,
+12/3/2024 11:01:52,Chengtao Zhang,7,5,4,5,5,5,
+12/3/2024 11:01:57,Molly Tian,7,4,5,4,5,4,
+12/3/2024 11:01:59,Michaella Park,7,5,5,5,5,5,Very thorough method of calculating scores! Having it all on a scale of 0 to 1 helps compare and understand the value. I would like to know more about the classification of each metric as a stock
+12/3/2024 11:01:59,Yuvraj Gupta,7,4,4,4,4,4,More emphasis could be laid to improve the weighting mechanism involved in the project.
+12/3/2024 11:02:11,Alayna Burns,7,5,5,5,5,4,
+12/3/2024 11:02:12,Ponsuganth Muthuraman,7,5,5,5,5,5,
+12/3/2024 11:02:20,Camilo Colorado,7,5,5,5,5,5,I like the weighting they used (system's based weighting). I also like the acknowledgement of how hard it is to come by global city data. 
+12/3/2024 11:02:29,Apurba Paudel,7,5,5,5,5,4,
+12/3/2024 11:03:14,Galia,7,4,5,5,5,5,
+12/3/2024 11:03:16,Peng Jie Teoh,7,5,5,5,5,5,
+12/3/2024 11:03:18,Jatzia Felix,7,5,5,5,5,5,
+12/3/2024 11:03:19,Ashwini,7,5,5,5,5,5,"Core components and cross components division are very innovative, there are some factors which require special attention and should be core components. They sum up 80% of the systems and hence they should be given priority while dealing with the problems "
+12/3/2024 11:03:21,Eliana Stern,7,5,5,4,5,5,I really appreciated how comprehensive the calculations slide was!
+12/3/2024 11:03:23,Ryan Auker,7,5,5,5,5,5,
+12/3/2024 11:03:26,Chween An,7,3,5,4,4,4,
+12/3/2024 11:03:27,Brian Ma,7,5,5,5,5,5,
+12/3/2024 11:03:42,Angelina Lee,7,5,5,5,5,5,Great slide deck visuals
+12/3/2024 11:03:44,Vishnu Murali,7,5,4,4,5,4,
+12/3/2024 11:03:47,Ryan Esquivel,7,5,5,5,5,5,
+12/3/2024 11:03:51,Clara Medina,7,5,5,5,4,5,"I liked the inverted, normalizing system for certain terms where a higher number means worse sustainability metrics. "
+12/3/2024 11:03:56,Ningyan Chen,7,5,5,5,5,5,
+12/3/2024 11:03:59,Dulce'Celeste Martinez ,7,5,5,5,5,5,
+12/3/2024 11:04:13,Allison Kuzyk,7,5,5,5,5,5,
+12/3/2024 11:04:14,Jose Lemus,7,5,5,5,5,5,
+12/3/2024 11:05:34,Daniel Pack,7,5,5,4,5,5,
+12/3/2024 11:06:25,Sam Garcia,7,5,5,5,5,5,
+12/3/2024 11:06:28,Natalie Gonzalez,10,5,5,5,5,5,
+12/3/2024 11:07:09,Isabelle Cooper,7,5,4,5,5,4,The explanation of the complexity/interconnection was a bit vague but otherwise it was a good presentation! 
+12/3/2024 11:07:18,Natalie Gonzalez,7,5,4,4,5,4,
+12/3/2024 11:10:40,Jake Chua,6,4,5,4,5,5,
+12/3/2024 11:10:48,Rizwaan Malik,6,3,5,5,4,5,"The focus on California made sense and I like how it gives a narrower scope. Really clear slides, loved it. "
+12/3/2024 11:12:38,Yasemin Agi,6,5,5,5,5,5,Great idea to narrow down the scope to California! Graphics for data sources was awesome
+12/3/2024 11:12:59,Hannah Lipman,6,4,5,3,5,5,
+12/3/2024 11:13:03,Peng Jie Teoh,6,5,5,5,5,5,
+12/3/2024 11:13:05,Daniel Pack,6,4,5,5,5,5,
+12/3/2024 11:13:07,Ryan Auker,6,5,5,5,5,5,
+12/3/2024 11:13:09,Allison Kuzyk,6,5,5,5,5,5,I liked the unique California focus and presentation style. Affordability was also something I hadn't considered for the index but makes complete sense and is great to include. 
+12/3/2024 11:13:20,Ryan Esquivel,6,5,5,5,5,5,
+12/3/2024 11:13:27,Galia,6,5,4,5,5,5,
+12/3/2024 11:13:28,Vishnu Murali,6,5,5,4,4,5,
+12/3/2024 11:13:31,Ponsuganth Muthuraman,6,5,5,5,4,5,
+12/3/2024 11:13:35,Alayna Burns,6,5,5,5,4,5,
+12/3/2024 11:13:48,Ashwini ,6,5,5,5,5,5,
+12/3/2024 11:13:48,Molly Tian,6,5,5,4,3,5,
+12/3/2024 11:13:48,Dulce'Celeste Martinez ,6,5,5,5,5,5,Great job!
+12/3/2024 11:14:23,Jose Lemus,6,5,5,5,5,5,very insightful on how they came up with their USSI. 
+12/3/2024 11:14:28,Yuvraj Gupta,6,4,4,4,4,4,Good analysis of the system. More information and comments on choosing the indices would be more helpful.
+12/3/2024 11:15:24,Clara Medina,6,3,4,4,3,4,"I understand that CA has a lot of data availability, but the project does ask for scalability in different parts of the world/country. I wonder if this USSI can be applied to areas similar to CA. Maybe more ""progressive"" counties or cities."
+12/3/2024 11:15:25,Hywot Ayana,6,5,5,5,5,5,
+12/3/2024 11:15:25,Camilo Colorado,6,4,5,4,4,5,"Very interesting that they took the perspective of affordability and livability metrics, along with the systems metrics perspective. "
+12/3/2024 11:16:01,Huilan Huang,6,5,5,5,5,5,
+12/3/2024 11:16:05,Muran,6,4,5,5,5,5,
+12/3/2024 11:16:07,Ningyan Chen,6,5,5,5,5,5,
+12/3/2024 11:16:34,Michaella Park,6,5,5,5,4,5,"Interesting definition of scope, engaging and clear graphics! It would be interesting to apply this metric to suburbs vs. urban areas to see how they perform overall"
+12/3/2024 11:16:59,Chween An,7,3,4,4,3,4,
+12/3/2024 11:17:04,Isabelle Cooper,6,5,5,5,5,5,
+12/3/2024 11:17:11,Alpha Hernandez,6,5,5,5,4,5,Love love LOVE the logo y'all created! All of the graphics were super helpful for visualizing the USSI model.
+12/3/2024 11:17:12,Angelina,6,5,5,5,5,5,city selection strategy: will have interesting and possibly more applicable results since focused on California
+12/3/2024 11:17:18,Eliana Stern,6,5,5,5,4,5,Really interesting discussion/justification of geographic scope - great job!! I would've liked to see a greater exploration of data sources/limits somewhere in the presentation
+12/3/2024 11:17:20,Rima,7,4,5,5,5,4,
+12/3/2024 11:17:22,Brian Ma,6,5,5,5,5,5,
+12/3/2024 11:17:45,Natalie Gonzalez,6,5,5,5,5,5,It does seem like you have a lot of metrics so you might be limited by the data sources available 
+12/3/2024 11:18:40,Sam Garcia,6,5,5,5,5,5,
+12/3/2024 11:22:09,Galia,4,5,5,5,5,5,
+12/3/2024 11:25:10,Yuvraj Gupta,4,4,4,4,4,5,
+12/3/2024 11:25:59,Yasemin Agi,4,5,5,5,5,5,cool approach about editing an existing metric and comparing results
+12/3/2024 11:28:03,Jake Chua,4,5,5,4,4,5,
+12/3/2024 11:28:06,Chengtao Zhang,4,4,4,4,4,5,
+12/3/2024 11:28:12,Jose Lemus,4,5,5,5,5,5,
+12/3/2024 11:28:12,Ashwini ,4,4,5,5,5,5,
+12/3/2024 11:28:12,Isabelle Cooper,4,5,5,5,4,5,
+12/3/2024 11:28:14,Camilo Colorado,4,5,5,5,4,5,"Great idea to use an existing effort (SCI) to reference and base their USSI off of, but also use as a way to figure out what they want to differentiate. This was also probably a great way to ensure the cities they were going to look at had relatively good data. "
+12/3/2024 11:28:23,Rizwaan Malik,4,5,5,4,5,5,
+12/3/2024 11:28:30,Alpha Hernandez,4,5,5,5,5,5,
+12/3/2024 11:28:36,Ponsuganth Muthuraman,4,5,5,5,5,5,
+12/3/2024 11:28:37,Sam Garcia,4,5,5,5,5,5,
+12/3/2024 11:28:55,Ryan Esquivel,1,5,5,5,5,5,
+12/3/2024 11:29:42,Alayna Burns,4,4,5,5,5,5,
+12/3/2024 11:29:45,Hannah Lipman,4,4,5,4,5,5,
+12/3/2024 11:29:49,Eliana Stern,4,5,5,5,5,5,The indicator radar charts were so interesting - I really appreciated this visual aid for the ranking system
+12/3/2024 11:30:00,Clara Medina,4,5,5,4,5,5,
+12/3/2024 11:30:02,Ningyan Chen,4,5,5,5,5,5,
+12/3/2024 11:30:10,Peng Jie Teoh,4,5,5,5,5,5,
+12/3/2024 11:30:13,Apurba Paudel,4,4,5,5,5,5,
+12/3/2024 11:30:15,Muran,4,5,5,4,5,5,
+12/3/2024 11:30:17,Michaella Park,4,4,5,5,5,5,"I am interested to know what a mental health as a stock means , and interested to hear more about how the data is normalized across countries or changing cities with better metrics "
+12/3/2024 11:30:17,Natalie Gonzalez,4,5,5,5,5,5,
+12/3/2024 11:30:17,Daniel Pack,4,5,5,5,5,3,
+12/3/2024 11:30:20,Ryan Auker ,4,5,5,5,5,5,I like how you used existing sustainability benchmark to confirm important indicator factors to focus on. I'm curious how you'll handle metrics in the USSI that are not available for all 5 cities
+12/3/2024 11:30:21,Vishnu Murali,1,5,5,5,5,5,
+12/3/2024 11:30:22,Jatzia Felix,4,5,5,5,5,5,
+12/3/2024 11:30:25,Brian Ma,4,5,5,5,5,5,
+12/3/2024 11:30:33,Dulce'Celeste Martinez ,4,5,5,5,5,5,Good job!
+12/3/2024 11:30:39,Huilan Huang,4,5,5,5,5,5,
+12/3/2024 11:31:21,Rima,6,5,5,5,4,5,
+12/3/2024 11:31:28,Sam Garcia,1,5,5,5,5,5,
+12/3/2024 11:31:51,Hywot Ayana,4,5,5,5,5,5,
+12/3/2024 11:32:31,Rahul Ajmera,4,5,5,5,5,5,nice job looking at existing metrics!
+12/3/2024 11:34:13,Yuvraj Gupta,1,4,4,4,4,4,
+12/3/2024 11:38:51,Chengtao Zhang,1,5,5,4,5,5,
+12/3/2024 11:41:49,Ryan Esquivel,7,5,5,5,5,5,
+12/3/2024 11:41:54,Galia,1,5,5,5,5,5,
+12/3/2024 11:41:54,Jake Chua,1,4,5,5,5,5,
+12/3/2024 11:42:01,Ponsuganth Muthuraman,1,5,5,5,5,5,
+12/3/2024 11:42:03,Vishnu Murali,4,5,5,5,5,5,
+12/3/2024 11:42:03,Molly Tian,1,4,4,5,4,5,
+12/3/2024 11:42:04,Brian Ma,1,5,5,5,5,5,
+12/3/2024 11:42:10,Alpha Hernandez,1,5,5,5,5,5,
+12/3/2024 11:42:52,Jose Lemus,1,5,5,5,5,5,
+12/3/2024 11:42:56,Rahul Ajmera,1,5,5,5,5,5,nice job with finding the water index!
+12/3/2024 11:42:58,Michaella Park,1,5,5,5,5,5,"I appreciate the clarity and simplicity, great clean energy index. Thorough data source exploration "
+12/3/2024 11:43:06,Eliana Stern,1,5,5,5,5,5,"Really interesting that you included a deeper dive into the HDI systems diagram, I really liked how this visual helped draw a parallel between HDI and your USSI. Also, awesome in-depth systems models for your terms!"
+12/3/2024 11:43:22,Hywot Ayana,1,5,5,5,5,5,
+12/3/2024 11:43:24,Hannah Lipman,1,4,5,4,5,5,
+12/3/2024 11:43:29,Camilo Colorado,1,5,5,5,5,5,"I like that they're focusing on a smaller number of indices and getting more granular and specific. It was a good discussion of specific data sources as well, probably since there was a less amount of indices. "
+12/3/2024 11:43:35,Clara Medina,1,5,5,5,4,5,
+12/3/2024 11:43:37,Huilan Huang,1,4,5,4,5,5,
+12/3/2024 11:43:44,Apurba Paudel,1,5,5,5,5,5,
+12/3/2024 11:43:53,Ryan Auker,1,5,5,5,5,5,I like that you started with the green city index to help guide your analysis. It was helpful to have your stock and flow diagrams broken out by each of the 8 metrics to provide clear understanding of each factor. 
+12/3/2024 11:44:48,Muran,1,5,5,4,5,5,
+12/3/2024 11:44:50,Rima,1,5,5,5,5,5,Very thorough!
+12/3/2024 11:44:54,Peng Jie Teoh,1,5,5,5,5,5,
+12/3/2024 11:45:00,Chween An,1,4,5,4,5,5,It's really great that the link to the data is included in each of the metrics. It would be interesting to see how all the indices react to each other.
+12/3/2024 11:45:05,Ningyan Chen,1,5,5,5,5,5,
+12/3/2024 11:45:15,Angelina Lee,1,5,5,5,5,5,7/8 components of their USSI are all indices. Their USSI seems very inclusive
+12/3/2024 11:45:17,Jatzia Felix,1,5,5,5,4,5,
+12/3/2024 11:45:20,Alayna Burns,1,5,5,5,5,5,
+12/3/2024 11:45:32,Allison Kuzyk,4,5,5,5,5,5,
+12/3/2024 11:45:32,Dulce'Celeste Martinez ,1,5,5,5,5,5,Yay!
+12/3/2024 13:41:18,Ashwini,1,4,5,5,5,5,
+12/5/2024 10:43:16,Chengtao Zhang,2,5,5,5,5,5,
+12/5/2024 10:43:57,Alpha Hernandez,2,5,5,5,5,5,
+12/5/2024 10:44:20,Yasemin Agi,2,5,4,5,5,5,would this USSI be able to be applied to non-C40 cities or is the data just not there? I liked that the stocks were very simplified but had a lot of inflows and outflows that were quantified
+12/5/2024 10:45:59,Eliana Stern,2,5,5,5,5,5,I really appreciated the context of defining sustainability - this really helped to provide a foundation for the methodology/justification of your USSI. 
+12/5/2024 10:46:06,Hannah Lipman,2,5,5,5,5,5,
+12/5/2024 10:46:06,Ningyan Chen,2,5,5,5,5,5,
+12/5/2024 10:46:31,Molly Tian,2,4,5,5,5,5,
+12/5/2024 10:46:40,Peng Jie Teoh,2,5,4,5,4,5,
+12/5/2024 10:46:40,Camilo Colorado,2,4,4,5,5,5,Great presentation. I especially liked the discussion on the definition of Sustainability. Really thought-provoking as it varies so widely is the foundation of what we're doing in this project. 
+12/5/2024 10:46:44,Galia,2,4,5,5,5,5,
+12/5/2024 10:46:45,Jake Chua,2,5,5,4,4,5,
+12/5/2024 10:46:47,Dulce’Celeste Martinez ,2,5,5,5,5,5,Great job!
+12/5/2024 10:46:49,Isabelle Cooper,2,4,5,5,5,5,
+12/5/2024 10:46:54,Rima,2,5,5,5,5,5,
+12/5/2024 10:46:55,Angelina Lee,2,5,5,5,5,5,
+12/5/2024 10:46:58,Ashwini ,2,5,5,5,5,5,
+12/5/2024 10:46:58,Natalie Gonzalez,2,5,5,5,5,5,Really thorough investigation and acknowledgement of challenges and potential redesign.  Love how you looked at different definitions of sustainability and the C40 database
+12/5/2024 10:47:33,Yuvraj Gupta,2,4,4,4,4,4,
+12/5/2024 10:47:36,Chween An Beh,2,4,5,5,5,5,Great and very clear about the stock/flow diagram and source of the data
+12/5/2024 10:48:06,Rahul Ajmera,2,5,5,5,5,5,great job sharing your data sources
+12/5/2024 10:48:11,Daniel Pack,2,5,5,5,5,4,
+12/5/2024 10:48:42,Apurba Paudel,2,4,5,5,5,5,
+12/5/2024 10:48:44,Alayna Burns,2,5,5,4,5,5,
+12/5/2024 10:49:13,Jatzia Felix,2,5,5,5,5,5,
+12/5/2024 10:49:14,Brian Ma,2,5,5,5,5,5,
+12/5/2024 10:51:10,Vishnu Murali,2,5,5,5,5,5,
+12/5/2024 10:51:14,Ponsuganth Muthuraman,2,5,5,5,5,5,
+12/5/2024 10:52:11,Jose Lemus,2,5,5,5,5,5,good graphics
+12/5/2024 10:54:48,Hannah Lipman,5,5,5,4,5,4,
+12/5/2024 10:55:16,Huilan Huang,2,5,5,5,5,5,
+12/5/2024 10:56:12,Jatzia Felix,5,5,5,5,5,5,
+12/5/2024 10:58:02,Sam Garcia,2,5,5,5,5,5,
+12/5/2024 10:58:11,Chengtao Zhang,5,4,4,5,5,5,
+12/5/2024 10:58:13,Clara Medina,5,4,5,4,5,5,I like the visualization of stocks and metrics under the 4 indices that were picked!
+12/5/2024 10:58:56,Allison Kuzyk,2,5,5,5,5,5,I really enjoyed their systems diagram showing the intersections of all the indexes. 
+12/5/2024 10:59:53,Natalie Gonzalez,5,5,5,5,5,5,Appreciated the consideration of how to look at productivity (traditionally GDP) in terms of sustainability 
+12/5/2024 10:59:53,Isabelle Cooper,5,4,5,5,5,5,
+12/5/2024 10:59:55,Brian Ma,5,5,5,5,5,5,
+12/5/2024 10:59:57,Ashwini ,5,5,5,5,5,5,
+12/5/2024 11:00:26,Daniel Pack,5,5,5,4,5,3,
+12/5/2024 11:00:30,Camilo Colorado,5,5,4,5,5,5,"Great presentation. Enjoyed the Data and Model limitations slide, as it resonated with the findings and thoughts of our group. "
+12/5/2024 11:00:52,Molly Tian,5,4,4,4,5,4,
+12/5/2024 11:01:18,Chween An Beh,5,3,3,3,5,4,Great exploration of the data sources
+12/5/2024 11:01:19,Eliana Stern,5,5,5,5,5,5,"I thought this was a really clear and comprehensive presentation! The only critique I have is some of the slides were hard to read due to the background color (like the black text on a red background was difficult for me to read from the back of the classroom). However, I was really impressed by the breadth of your data availability search/analysis!"
+12/5/2024 11:01:21,Jose Lemus,5,5,5,5,5,5,
+12/5/2024 11:01:23,rima,5,5,5,5,5,5,"Thorough data breakdown, very clear "
+12/5/2024 11:01:23,Vishnu Murali,5,5,5,5,5,5,
+12/5/2024 11:01:25,Angelina Lee,5,5,5,5,5,5,job-house ratio would be interesting to look at
+12/5/2024 11:01:28,Apurba Paudel,5,4,5,5,5,5,
+12/5/2024 11:01:29,Huilan Huang,5,3,5,4,5,4,
+12/5/2024 11:01:37,Allison Kuzyk,5,5,5,5,5,5,Great project! 
+12/5/2024 11:01:43,Sam Garcia,5,5,5,5,5,5,
+12/5/2024 11:02:11,Jake Chua,5,3,4,4,4,4,
+12/5/2024 11:02:30,Galia,5,5,5,5,5,5,
+12/5/2024 11:02:31,Alayna Burns,5,5,5,5,5,4,
+12/5/2024 11:02:36,Yuvraj Gupta,5,4,5,4,5,5,
+12/5/2024 11:03:28,Michaella Park,5,5,5,5,5,5,"interesting use of job to house ratio and incorporation of health metrics, comprehensive overviews of data availability"
+12/5/2024 11:03:45,Ningyan Chen,5,5,5,5,5,5,
+12/5/2024 11:04:09,Ryan Auker,5,5,5,5,5,5,good job! 
+12/5/2024 11:05:34,Alpha Hernandez,5,5,5,5,5,5,
+12/5/2024 11:11:04,Ponsuganth Muthuraman,8,5,5,5,5,5,
+12/5/2024 11:12:42,Clara Medina,8,5,5,5,5,5,"I love the addition of climate change as a system. It's very uncertain, but impacts all 3 systems."
+12/5/2024 11:13:42,Hannah Lipman,8,5,5,4,5,4,
+12/5/2024 11:13:47,Jake Chua,8,5,5,5,5,5,
+12/5/2024 11:13:48,Yuvraj Gupta,8,5,5,5,4,5,
+12/5/2024 11:13:48,Alpha Hernandez,8,5,5,5,5,5,
+12/5/2024 11:13:49,Molly Tian,8,5,5,5,5,5,
+12/5/2024 11:13:50,Chengtao Zhang,8,5,5,5,4,5,
+12/5/2024 11:13:50,Ryan Auker,8,5,5,5,5,5,I liked the organization of your USSI and the ranking / weighting methodology you used. 
+12/5/2024 11:13:54,Isabelle Cooper,8,5,5,5,5,5,
+12/5/2024 11:13:55,Eliana Stern,8,5,5,5,5,5,"Really clear and helpful diagrams throughout - loved all the visual aids used in this presentation, especially the color coding for data quality. Great job!"
+12/5/2024 11:13:59,Galia,8,4,5,5,5,5,
+12/5/2024 11:14:08,Sam Garcia,8,5,5,5,5,5,
+12/5/2024 11:14:13,Huilan Huang,8,4,4,4,5,5,
+12/5/2024 11:14:33,Jose Lemus,8,5,5,5,5,5,
+12/5/2024 11:14:53,Rizwaan Malik,8,4,5,5,5,5,Really thorough presentation. Loved the nuance of the data availability challenges. 
+12/5/2024 11:14:56,Daniel Pack,8,5,4,5,5,5,
+12/5/2024 11:14:56,Michaella Park,8,5,5,5,5,5,"great job, might benefit from simplification of systems diagram -- interesting way of deciding on cities based on data availability, and scope of cities you looked at! "
+12/5/2024 11:14:57,Jatzia Felix,8,5,5,5,5,5,
+12/5/2024 11:15:03,Ryan Esquivel,8,5,5,5,5,5,
+12/5/2024 11:15:15,Allison Kuzyk,8,5,5,5,5,5,
+12/5/2024 11:15:16,Angelina Lee,8,5,5,5,5,5,choosing singapore was smart
+12/5/2024 11:15:17,Apurba Paudel,8,5,5,5,5,5,
+12/5/2024 11:15:17,Dulce’Celeste Martinez ,8,5,5,5,5,5,Really appreciated their systems diagram with ussi as the main stock!
+12/5/2024 11:15:23,Alayna Burns,8,5,4,5,5,5,
+12/5/2024 11:15:28,Ningyan Chen,8,5,5,5,5,5,
+12/5/2024 11:15:31,Yasemin Agi,8,5,5,5,5,5,
+12/5/2024 11:15:34,Ashwini ,8,5,5,5,5,5,
+12/5/2024 11:15:42,Chween An Beh,8,4,5,5,5,5,the heat map of the data availability is really great 
+12/5/2024 11:15:49,Yasemin,5,5,5,5,5,5,
+12/5/2024 11:16:23,Rima,8,5,5,5,5,5,I enjoyed the intervention points and discussion of positive feedback loops. 
+12/5/2024 11:16:43,Peng Jie Teoh,5,5,5,4,4,4,
+12/5/2024 11:16:59,Vishnu Murali,9,5,5,5,5,5,
+12/5/2024 11:20:46,Rahul Ajmera,5,5,5,5,5,5,
+12/5/2024 11:21:10,Rahul Ajmera,8,5,5,5,5,5,
+12/5/2024 11:21:10,Natalie Gonzalez,8,5,5,5,5,5,Really incredible systems model and focus on how the interventions can create domino effects and span across multiple indices
+12/5/2024 11:26:08,Yuvraj Gupta,3,4,4,4,4,5,
+12/5/2024 11:26:22,Hywot Ayana,8,5,5,5,5,5,
+12/5/2024 11:27:20,Michaella Park,9,5,5,5,5,5,"interesting use of congressional districts in dividing up areas, and comprehensive study of tree canopy as well as other metrics! Also love the graphics"
+12/5/2024 11:27:33,Yasemin Agi,9,5,5,5,5,5,nice graphics! I love that they incorporated policy. Our group was considering that but weren't sure how to glad someone found a way
+12/5/2024 11:27:44,Natalie Gonzalez,9,5,5,5,5,5,"Good analysis of Clean City Index and how it can show future adaptability, strong focus on human flourishing"
+12/5/2024 11:27:52,Ryan Esquivel,5,5,5,5,5,5,
+12/5/2024 11:27:53,Hannah Lipman,9,4,4,5,5,4,
+12/5/2024 11:27:59,Chengtao Zhang,9,4,5,5,5,5,
+12/5/2024 11:28:09,Apurba Paudel,9,4,5,5,5,5,
+12/5/2024 11:28:12,Jake Chua,9,4,5,5,5,5,
+12/5/2024 11:28:18,Daniel Pack,9,5,5,5,4,5,
+12/5/2024 11:28:23,Rima,9,4,5,5,5,5,
+12/5/2024 11:28:28,Ningyan Chen,9,5,5,5,5,5,
+12/5/2024 11:28:30,Peng Jie Teoh,9,4,4,4,4,4,
+12/5/2024 11:28:32,Camilo Colorado,7,4,5,5,5,5,Great discussion on the reason for developing a sustainability index for cities and how cities will become even more important as a driver for the future. Also liked including a discussion on qualitative factors regarding the cities. Very important. 
+12/5/2024 11:28:38,Dulce’Celeste Martinez,9,5,5,5,5,5,Google tree canopy imaging is a really cool source! Temporal snapshot versus longterm is a good concern! Hard to know how this should weigh in on ussi score.
+12/5/2024 11:28:39,Ashwini,9,5,5,5,5,5,
+12/5/2024 11:28:40,Alpha Hernandez,9,5,5,5,5,5,
+12/5/2024 11:28:41,Molly Tian,9,5,5,4,5,5,
+12/5/2024 11:28:45,Allison Kuzyk,9,5,5,5,5,5,Well explained presentation! I thought the energy scorecard was a really unique and interesting metric. 
+12/5/2024 11:28:47,Chween An Beh,3,4,4,4,4,5,Great use of graphics in the ppt 
+12/5/2024 11:28:48,Huilan Huang,9,4,5,5,5,5,
+12/5/2024 11:28:56,Ryan Esquivel,9,5,5,5,5,5,
+12/5/2024 11:28:58,Ryan Auker,9,5,5,5,5,5,"I'm curious about using HDI as the highest weight for a sustainability score. Not to say that human development isn't important, I'm just not sure it is the most telling metric for city-wide sustainability (from a forward looking climate impact perspective) "
+12/5/2024 11:29:04,Eliana Stern,9,5,5,5,5,5,"Really clear and concise but comprehensive presentation, great job!"
+12/5/2024 11:29:11,Angelina Lee,9,5,5,5,5,5,found city clean energy scorecard which seems pretty inclusive of a lot of significant factors
+12/5/2024 11:29:14,Clara Medina,9,4,3,5,4,5,"I appreciate how thorough the motivation was for this project, and really taking an emphasis on human life/lifestyle."
+12/5/2024 11:29:40,Rahul Ajmera,9,5,5,5,5,5,
+12/5/2024 11:29:42,Brian Ma,9,5,5,5,5,5,
+12/5/2024 11:29:46,Jatzia Felix,9,5,5,5,5,5,
+12/5/2024 11:29:49,Muran,3,5,4,4,5,5,
+12/5/2024 11:30:00,Muran,2,5,5,4,4,5,
+12/5/2024 11:30:17,Muran,5,5,5,5,5,4,
+12/5/2024 11:30:29,Muran,8,4,5,5,5,5,
+12/5/2024 11:30:43,Muran,9,5,5,5,4,5,
+12/5/2024 11:32:41,Yuvraj Gupta,9,4,5,4,4,5,
+12/5/2024 11:36:27,Hannah Lipman,3,5,4,3,4,4,
+12/5/2024 11:37:16,Ponsuganth Muthuraman,3,5,5,5,5,5,
+12/5/2024 11:37:55,Yasemin Agi,3,5,5,5,5,5,"interesting that they centered everything about humans and life expectancy, cool perspective!"
+12/5/2024 11:40:03,Camilo Colorado,3,5,5,4,5,5,I enjoyed their illustration and discussion of how they brainstormed. Really good discussion on data findings and disparities that may not be reflected enough in the available data. 
+12/5/2024 11:40:15,Ashwini,3,5,5,5,5,5,
+12/5/2024 11:40:17,Rahul Ajmera,3,5,5,5,5,5,
+12/5/2024 11:40:18,Dulce’Celeste Martinez,3,5,5,5,5,5,Lowest common denominator seems like a good guiding factor (although limiting) for city selection. Significant disparities of sustainability within cities as well! Good point! 
+12/5/2024 11:40:18,Chengtao Zhang,3,4,5,5,4,5,
+12/5/2024 11:40:21,Jake Chua,3,4,5,5,5,5,
+12/5/2024 11:40:27,Apurba Paudel,3,4,5,5,5,5,
+12/5/2024 11:40:33,Vishnu Murali,3,5,5,5,5,5,
+12/5/2024 11:40:34,Jose Lemus,3,5,5,5,5,5,
+12/5/2024 11:40:35,Alayna Burns,3,4,5,5,5,4,
+12/5/2024 11:40:43,Jatzia Felix,3,5,5,5,5,5,
+12/5/2024 11:40:51,Michaella Park,3,5,5,5,5,5,"interesting variety of cities , good discussion of general findings on data availability , and acknowledging disparities within cities "
+12/5/2024 11:41:01,Eliana Stern,3,5,5,5,5,5,"I thought it was really interesting how you chose to break down the USSI terms into the three categories of how they relate to life expectancy. This really helped simplify the conceptualization of your model and highlight the most important factors, great job!"
+12/5/2024 11:41:21,Huilan Huang,3,4,4,4,5,4,
+12/5/2024 11:41:39,Daniel Pack,3,5,5,4,5,5,
+12/5/2024 11:41:42,Ningyan Chen,2,5,5,5,5,5,
+12/5/2024 11:41:44,Chween An Beh,3,4,4,5,5,4,
+12/5/2024 11:41:44,Clara Medina,3,5,4,5,5,5,"I think it's really interesting to think about how different metrics impact human life expectancy! Really unique approach, but makes a lot of sense."
+12/5/2024 11:41:45,Alpha Hernandez,3,5,5,5,5,5,
+12/5/2024 11:41:46,Rizwaan Malik,3,4,4,4,3,4,
+12/5/2024 11:41:50,Allison Kuzyk,3,5,5,5,5,4,Great data findigns 
+12/5/2024 11:41:58,Galia Santana-Oikawa,9,5,5,5,5,5,
+12/5/2024 11:42:03,Angelina Lee,3,5,5,5,5,5,Tree coverage is interesting indicator (ample data?)  
+12/5/2024 11:42:07,Molly Tian,3,4,4,5,5,5,
+12/5/2024 11:42:13,Ryan Auker,3,5,5,5,5,5,Good work! 
+12/5/2024 11:42:36,Ryan Esquivel,3,5,5,5,5,5,
+12/5/2024 11:43:39,Hywot Ayana,3,4,5,5,5,5,
+12/5/2024 12:06:55,Rima,3,4,5,5,5,4,
