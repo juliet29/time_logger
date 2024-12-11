@@ -5,9 +5,7 @@ from rich import print as rprint
 from date_helpers import format_date
 
 
-def init_in_memory_db():
-    connection = sqlite3.connect(":memory:")
-
+def init_db(connection: sqlite3.Connection):
     DB_INIT_PATH = Path.cwd().parent / "db_creators"
     with open(DB_INIT_PATH / "create.sql", "r") as file:
         create_script = file.read()
@@ -19,6 +17,27 @@ def init_in_memory_db():
         connection.executescript(init_script)
 
     return connection
+
+
+def init_in_memory_db():
+    connection = sqlite3.connect(":memory:")
+    return init_db(connection)
+
+
+def connect_to_real_db(name):
+    connection = sqlite3.connect(name)
+    assert connection
+    return connection
+
+
+def check_db(connection: sqlite3.Connection):
+    with connection:
+        c = connection.cursor()
+        c.execute(
+            """SELECT name FROM sqlite_master"""
+        )
+        res = c.fetchall()
+        assert res, "Invalid database connection - No items here :("
 
 
 def read_choices_for_selection_type_from_db(
@@ -81,8 +100,8 @@ def write_entry_to_db(connection: sqlite3.Connection, entry: Entry):
         c = connection.cursor()
         c.execute(
             """INSERT INTO entry VALUES (:row_id, :entry_date, :entry_project_name, :description)""",
-            {   
-                "row_id": None, 
+            {
+                "row_id": None,
                 "entry_date": format_date(entry.date),
                 "entry_project_name": entry.project,
                 "description": entry.description,
@@ -101,6 +120,7 @@ def write_entry_to_db(connection: sqlite3.Connection, entry: Entry):
         ]
         c.executemany(
             """INSERT INTO time_elapsed VALUES (:entry_id, :minutes)
-            """, minutes_data
+            """,
+            minutes_data,
         )
     return 0
