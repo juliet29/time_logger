@@ -2,7 +2,7 @@ INSERT INTO focus_area values("phd");
 INSERT INTO focus_area values("blog");
 INSERT INTO focus_area values("personal_code");
 INSERT INTO focus_area values("admin");
-INSERT INTO projects values("career");
+INSERT INTO focus_area values("career");
 
 INSERT INTO projects values("svg2code", "phd");
 INSERT INTO projects values("plan2eplus", "phd");
@@ -19,3 +19,4 @@ INSERT INTO activity_type values("sending emails");
 INSERT INTO activity_type values("organizing");
 
 -- INSERT INTO entry values(0, "120624", "time_logger", "sql commands")
+
