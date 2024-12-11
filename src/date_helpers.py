@@ -2,7 +2,7 @@ from datetime import date, datetime
 
 
 def format_date(_date: date) -> str:
-    return _date.strftime("%y-%m-%d")
+    return _date.strftime("%Y-%m-%d")
 
 
 def get_todays_date() -> date:
