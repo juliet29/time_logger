@@ -2,11 +2,13 @@ from __init__ import *
 from sqlite3 import Connection
 import polars as pl
 
-
 from variables import DB_PATH
 from db_commands.connect import connect_to_real_db
 from interfaces import ReturnedEntry
 from rich import print as rprint
+
+MINUTES_TO_MS = 60*1000
+
 
 def read_all_entries(connection: Connection):
     # TODO - flags that will control dates, etc.. 
@@ -27,8 +29,18 @@ def read_all_entries(connection: Connection):
 
     
 def create_list(df:pl.DataFrame):
-    pass
+    df = df.with_columns(
+            minutes =MINUTES_TO_MS*pl.col("minutes").cast(pl.Duration(time_unit="ms"))
+            )
+    rprint(df)
+    d = df.group_by("focus_area").agg(pl.col("minutes").sum())
+    rprint(d)
+    d1 = df.group_by("focus_area", "project").agg(pl.col("minutes").sum())
+    rprint(d1)
 
+
+    
+   
 
 
 
