@@ -10,7 +10,7 @@ from date_helpers import format_date, get_todays_date, validate_date
 from conversion_helpers import extract_constant_values_from_string
 from datetime import date
 
-from db_interact import read_choices_for_selection_type_from_db, write_new_choice_to_db
+from db_commands.entry import read_choices_for_selection_type_from_db, write_new_choice_to_db
 from interfaces import Entry, SelectionType
 
 CREATE_NEW = "CREATE NEW"
@@ -45,7 +45,7 @@ def get_date():
     if confirm("Use today's date", default_is_yes=True):
         date = get_todays_date()
     else:
-        date_text = prompt("Enter a date") 
+        date_text = prompt("Enter a date (ex: YYMMDD)") 
         date = validate_date(date_text) #
     return date
 

@@ -1,13 +1,10 @@
-from pathlib import Path
 from beaupy import prompt, confirm, select
 from rich.console import Console
-from db_interact import write_entry_to_db
+from db_commands.connect import connect_to_real_db, init_in_memory_db
+from db_commands.entry import write_entry_to_db
 from prompts import get_date, get_entry_data
-from db_interact import init_in_memory_db, connect_to_real_db, check_db
-
-DB_PATH = Path.cwd().parent / "logged_entries"
-max_entries = 10
-
+from db_commands.connect import check_db
+from variables import DB_PATH, MAX_ENTRIES
 
 
 def handle_entry_after_date(connection, console, date):
@@ -19,7 +16,7 @@ def handle_entry_after_date(connection, console, date):
 
 def log_entry():
     connection = connect_to_real_db(DB_PATH)
-    check_db(connection, DB_PATH)
+    check_db(connection)
     console = Console()
     date = get_date()
     handle_entry_after_date(connection, console, date)
@@ -28,7 +25,7 @@ def log_entry():
     while confirm(f"Add another entry for {date}?"):
         handle_entry_after_date(connection, console, date)
         entries_added += 1
-        if entries_added > max_entries:
+        if entries_added > MAX_ENTRIES:
             break
     return
 

@@ -27,3 +27,14 @@ class SelectionType(Enum):
         2  # Focus area agnostic -> coding, reading, writing, gathering resources, etc
     )
 
+@dataclass
+class ReturnedEntry:
+    id: int
+    date: str
+    focus_area: str
+    project: str
+    description: str
+    minutes: int
+    activity_type: str
+
+
