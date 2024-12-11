@@ -17,7 +17,7 @@ class Entry:
 
     @property
     def confimation_message(self):
-        return f"Confirm entry is correct: \n {format_date(self.date)} \n Worked on {self.description} for {sum(self.times_worked)} minutes \n Focus area: {self.focus_area} \n Projects: {self.project} \n Activity types: {self.activity_type} \n"
+        return f"[bold]\n Confirm entry is correct: \n On {format_date(self.date)} worked on `{self.description}` for {sum(self.times_worked)} minutes \n Focus area: {self.focus_area} | Projects: {self.project} |  Activity type: {self.activity_type} \n"
 
 
 class SelectionType(Enum):

@@ -19,14 +19,13 @@ def init_in_memory_db():
 
     return connection
 
-# TODO -> split into different functions.. 
+
 def read_choices_for_selection_type_from_db(
     connection: sqlite3.Connection, selection_type: SelectionType, focus_area=None
 ) -> list[tuple[int, ...] | str]:
     match selection_type:
         case SelectionType.FOCUS_AREA | SelectionType.ACTIVITY_TYPE:
             table_name = selection_type.name.lower()
-            rprint(f" table_name should be: [bold blue]{table_name}[/bold blue]")
             with connection:
                 c = connection.cursor()
                 c.row_factory =  lambda _, row: row[0]
