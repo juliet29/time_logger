@@ -1,8 +1,7 @@
-from __init__ import *
+# from __init__ import *
 from sqlite3 import Connection
 import polars as pl
 
-from variables import DB_PATH
 from db_commands.connect import connect_to_real_db
 from interfaces import ReturnedEntry
 from rich import print as rprint
@@ -37,13 +36,11 @@ def aggregate_focus_project_date(df:pl.DataFrame):
     df = df.with_columns(
             minutes =MINUTES_TO_MS*pl.col("minutes").cast(pl.Duration(time_unit="ms"))
             )
-    rprint(df)
-    d = df.group_by("focus_area").agg(pl.col("minutes").sum())
-    rprint(d)
+    # rprint(df)
     d1 = df.group_by("focus_area", "project", "date").agg(pl.col("minutes").sum())
-    rprint(d1.dtypes)
-    rprint(d1.to_pandas())
-    rprint(d1.to_pandas().dtypes)
+    # rprint(d1.dtypes)
+    # rprint(d1.to_pandas())
+    # rprint(d1.to_pandas().dtypes)
 
     return d1
 
@@ -73,11 +70,12 @@ def plot_focus_project_date(df:pl.DataFrame):
    
 
 
+# # TODO this should just not be here tbh.. run file should be outside, in app.py if anything.. 
+# if __name__ == "__main__":
+#     connection = connect_to_real_db(DB_PATH)
+#     df = read_all_entries(connection)
+#     df_agg = aggregate_focus_project_date(df)
 
-if __name__ == "__main__":
-    connection = connect_to_real_db(DB_PATH)
-    df = read_all_entries(connection)
-    df_agg = aggregate_focus_project_date(df)
-    plot_focus_project_date(df_agg)
-    # plot_focus_project_date_mpl(df_agg)
+#     plot_focus_project_date(df_agg)
+#     # plot_focus_project_date_mpl(df_agg)
 
