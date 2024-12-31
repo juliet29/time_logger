@@ -29,7 +29,7 @@ class SelectionType(Enum):
 
 @dataclass
 class ReturnedEntry:
-    id: int
+    entry_id: int
     date: str
     focus_area: str
     project: str
