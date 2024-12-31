@@ -34,10 +34,10 @@ def read_all_entries(connection: Connection):
     
 def aggregate_focus_project_date(df:pl.DataFrame):
     df = df.with_columns(
-            minutes =MINUTES_TO_MS*pl.col("minutes").cast(pl.Duration(time_unit="ms"))
+            elapsed_time =MINUTES_TO_MS*pl.col("minutes").cast(pl.Duration(time_unit="ms"))
             )
     # rprint(df)
-    d1 = df.group_by("focus_area", "project", "date").agg(pl.col("minutes").sum())
+    d1 = df.group_by("focus_area", "project", "date").agg(pl.col("elapsed_time").sum())
     # rprint(d1.dtypes)
     # rprint(d1.to_pandas())
     # rprint(d1.to_pandas().dtypes)

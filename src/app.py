@@ -4,7 +4,7 @@ from db_commands.connect import connect_to_real_db, init_in_memory_db
 from db_commands.entry import write_entry_to_db
 from prompts import get_date, get_entry_data
 from db_commands.connect import check_db
-from variables import DB_PATH, MAX_ENTRIES
+from variables import get_db_path, MAX_ENTRIES
 
 
 def handle_entry_after_date(connection, console, date):
@@ -15,7 +15,7 @@ def handle_entry_after_date(connection, console, date):
 
 
 def log_entry():
-    connection = connect_to_real_db(DB_PATH)
+    connection = connect_to_real_db(get_db_path())
     check_db(connection)
     console = Console()
     date = get_date()
